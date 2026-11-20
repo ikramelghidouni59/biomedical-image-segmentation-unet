@@ -1,0 +1,35 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dataset
+data/
+dataset/
+datasets/
+
+# Model files
+*.h5
+*.keras
+*.weights.h5
+*.ckpt
+
+# Logs
+logs/
+*.log
+
+# Kaggle credentials
+kaggle.json
+.kaggle/
+
+# System files
+.DS_Store
+Thumbs.db
